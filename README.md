@@ -1,9 +1,11 @@
 # docker-cd-java7
 
 Packages installed
+# OpenJDK 7
 # git
 # python 2.7
 # buildbot-worker
+# ansible
 # sbt
 
 
